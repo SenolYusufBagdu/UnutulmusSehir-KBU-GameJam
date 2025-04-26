@@ -21,7 +21,6 @@ public class playGame : MonoBehaviour
     public void settings()
     {
         SceneManager.LoadScene("Settings Menü");
-        
     }
 
 
