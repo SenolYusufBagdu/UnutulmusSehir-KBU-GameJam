@@ -19,13 +19,13 @@ Karakterimiz geçirdiği ağır bir hastalıktan sonra gözlerini açtığında 
 
 ### 🛠️ Yapım Detayları
 
-| | |
-|---|---|
-| **Engine** | Unity |
+|            |                     |
+| ---------- | ------------------- |
+| **Engine** | Unity               |
 | **Grafik** | Pixel Art / Tilemap |
-| **Süre** | 48 Saat |
-| **Tema** | Miras |
-| **Ekip** | 2 Kişi |
+| **Süre**   | 48 Saat             |
+| **Tema**   | Miras               |
+| **Ekip**   | 2 Kişi              |
 
 ### 👥 Ekip
 
@@ -48,13 +48,13 @@ When our character wakes up after a severe illness, they no longer recognize the
 
 ### 🛠️ Details
 
-| | |
-|---|---|
-| **Engine** | Unity |
+|               |                     |
+| ------------- | ------------------- |
+| **Engine**    | Unity               |
 | **Art Style** | Pixel Art / Tilemap |
-| **Duration** | 48 Hours |
-| **Theme** | Heritage / Legacy |
-| **Team** | 2 People |
+| **Duration**  | 48 Hours            |
+| **Theme**     | Heritage / Legacy   |
+| **Team**      | 2 People            |
 
 ### 👥 Team
 
@@ -64,8 +64,8 @@ When our character wakes up after a severe illness, they no longer recognize the
 
 ## 📸 Screenshot
 
-![Gameplay](screenshot.png)
+![Gameplay](screenshot.webp)
 
 ---
 
-*KBU Game Jam 2025 — Tema: Miras | Theme: Heritage*
+_KBU Game Jam 2025 — Tema: Miras | Theme: Heritage_
